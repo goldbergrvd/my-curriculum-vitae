@@ -66,3 +66,7 @@ requirement logic, implemented by Java
 
 ##### Collections
 - http://static.carcarmall.com.tw/usedcar_woman/index.html
+
+# Private collections
+
+- a line bot 波波神回, give keyword to 波波神回, and it will return relative image for you, please use following QR code to add friend. ![](http://qr-official.line.me/L/XuH9h931w9.png)
