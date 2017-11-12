@@ -15,17 +15,39 @@
 
 # Technology summery
 
-### Java
+### 1. Java
+
+##### Concept
 - Object oriented
 - Design pattern
+
+##### Techonology
 - Servlet
 - gradle
+- springmvc
+- activejdbc
 
-### JavaScript
-- basic concept include prototype, scope chain, closure, asynchronous, and single thread event queue
-- advanced like ES6 in learning, Nodejs, React, socket.io, rxjs, jQuery e.g., and babel, gulp, browserify tools for build
+### 2. JavaScript
 
-### Another
+##### Concept
+- prototype
+- scope chain
+- closure
+- asynchronous
+- single thread event queue
+
+##### Techonology
+- ES6
+- Nodejs
+- React
+- socket.io
+- rxjs
+- jQuery
+- babel
+- gulp
+- browserify
+
+### 3. Another
 - mqtt
 - mysql
 - android
@@ -52,7 +74,8 @@ requirement logic, implemented by Java
 - jQuery, underscore, almost vanilla...
 
 ##### Frontend module develop by self
-- a scope environment create module based on different app executed 2. a data query module for communicate to backend
+- a scope environment create module based on different app executed 
+- a data query module for communicate to backend
 - a real-time data module for receive message queue
 
 ### 2. Taiwan Acceptance Corporation, Front-end engineer, 2017/08/28 to current
@@ -65,7 +88,7 @@ requirement logic, implemented by Java
 - RWD
 
 ##### Collections
-- http://static.carcarmall.com.tw/usedcar_woman/index.html
+- [activity RWD web](http://static.carcarmall.com.tw/usedcar_woman/index.html)
 
 # Private collections
 
