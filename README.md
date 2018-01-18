@@ -60,7 +60,8 @@
 ##### Backend technology
 - Tomcat6 servlet with JDK6
 - REST API with SpringMVC
-- MySql with ActiveJDBC ORM framework 4. ActiveMQ with MQTT protocol
+- MySql with ActiveJDBC ORM framework
+- ActiveMQ with MQTT protocol
 - data format with json and protobuf
 - gradle for build project
 
